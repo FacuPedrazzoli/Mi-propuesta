@@ -12,5 +12,6 @@
 
 ## Personalización rápida
 
-- Reemplazá `tuemail@dominio.com`, el link de WhatsApp (`https://wa.me/...`) y el link de agenda.
+- Reemplazá `pedrazzolifacundo@gmail.com`, el link de WhatsApp (`https://wa.me/...`) y el link de agenda.
 - Cambiá el nombre `Mi Propuesta` en el header/footer.
+
